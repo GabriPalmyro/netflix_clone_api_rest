@@ -1,16 +1,11 @@
-# api_project
+# Flutter Clone App Netflix
 
-A new Flutter project.
+## Esse aplicativo teve com objetivo estudos do uso de API REST e manipulação desses dados no aplicativo
 
-## Getting Started
+Toda o aplicativo foi fesenvolvido em **Flutter**
 
-This project is a starting point for a Flutter application.
+> A API usada para puxar o banco de dados dos filmes foi a API do *The Movie Database*
+> https://www.themoviedb.org
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### Segue abaixo um GIF do funcionamento do App
+<img src="https://github.com/GabriPalmyro/netflix_clone_api_rest/blob/master/gifs/gif_app.gif" width="50" height="50" />
