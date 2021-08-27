@@ -8,4 +8,4 @@ Toda o aplicativo foi fesenvolvido em **Flutter**
 > https://www.themoviedb.org
 
 ### Segue abaixo um GIF do funcionamento do App
-<img src="https://github.com/GabriPalmyro/netflix_clone_api_rest/blob/master/gifs/gif_app.gif" width="300" height="400" />
+<img src="https://github.com/GabriPalmyro/netflix_clone_api_rest/blob/master/gifs/gif_app.gif" width="300" height="500" />
